@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/main.unity
     guid: 0f9a4c9254fa28547a44f1f8b1f28006
   - enabled: 1
-    path: Assets/Scenes/Demo.unity
-    guid: 4b6a039f17b01cd488d824e355f0d406
+    path: Assets/Scenes/Aerogenerador.unity
+    guid: 68601e9b85741ff429c018479a142a2b
   - enabled: 0
     path: Assets/Scenes/test.unity
     guid: 00000000000000000000000000000000
