@@ -8,6 +8,7 @@ TagManager:
   - Chaperone
   - ArenaRoot
   - Screwdriver
+  - Medidor
   layers:
   - Default
   - TransparentFX
